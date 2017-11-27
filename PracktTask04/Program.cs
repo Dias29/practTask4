@@ -10,6 +10,7 @@ namespace PracktTask04
     {
         static void Main(string[] args)
         {
+            Money money = new Money();
         }
     }
 }
